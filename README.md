@@ -6,9 +6,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-![](https://github.com/IanIanIanIan/blog/blob/master/1_Activity%E5%8A%A0%E8%BD%BDUI-%E7%B1%BB%E5%9B%BE%E5%85%B3%E7%B3%BB%E5%92%8C%E8%A7%86%E5%9B%BE%E7%BB%93%E6%9E%84.png)
-![](https://github.com/IanIanIanIan/blog/blob/master/Activity%E7%9A%84View%E5%B8%83%E5%B1%80%E7%BB%93%E6%9E%84_HierarchyView.png)
-![](https://github.com/IanIanIanIan/blog/blob/master/AppCompatActivity%E7%9A%84View%E5%B8%83%E5%B1%80%E7%BB%93%E6%9E%84.png)
-![](https://github.com/IanIanIanIan/blog/blob/master/DecorView%E6%B7%BB%E5%8A%A0%E8%87%B3%E7%AA%97%E5%8F%A3%E7%9A%84%E8%BF%87%E7%A8%8B.png)
+![](https://github.com/IanIanIanIan/blog/raw/master/1_Activity%E5%8A%A0%E8%BD%BDUI-%E7%B1%BB%E5%9B%BE%E5%85%B3%E7%B3%BB%E5%92%8C%E8%A7%86%E5%9B%BE%E7%BB%93%E6%9E%84.png)
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
